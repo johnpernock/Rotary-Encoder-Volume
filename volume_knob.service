@@ -15,6 +15,3 @@ Group=pi
 [Install]
 WantedBy=graphical.target
 
-
-#~/.config/systemd/user/kiosk.service
-
